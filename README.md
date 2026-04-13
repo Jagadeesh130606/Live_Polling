@@ -4,6 +4,8 @@ A secure, event-driven voting system built using UDP sockets and AES-GCM encrypt
 This project demonstrates networking, security, and performance analysis concepts.
 
 ---
+## AUTHOR
+JAGADEESH R
 
 ## 🚀 Features
 
@@ -58,9 +60,9 @@ pip install cryptography
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
-### 1️⃣ Start Server
+### Start Server
 
 
 python server.py
@@ -68,7 +70,7 @@ python server.py
 
 ---
 
-### 2️⃣ Run GUI Client
+### Run GUI Client
 
 
 python client.py
@@ -80,7 +82,7 @@ python client.py
 
 ---
 
-### 3️⃣ Run CLI Client
+### Run CLI Client
 
 
 python client_cli.py
@@ -90,7 +92,7 @@ python client_cli.py
 
 ---
 
-### 4️⃣ Run Performance Test
+### Run Performance Test
 
 
 python performance.py
